@@ -1,0 +1,7 @@
+#Site URL
+http://www.ridewithgps.com/trips
+#Match URLS
+ridewithgps.com/trips/{$id}
+http://ridewithgps.com/trips/{$id}
+#Embed HTML
+<iframe frameborder="0" width="900" height="600" allowtransparency='true' scrolling='no' src="http://www.ridewithgps.com/trips/{$id}"></iframe>
