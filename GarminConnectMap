@@ -1,9 +1,9 @@
 # Match URLS
-# connect.garmin.com/course/{$id}
-# http://connect.garmin.com/course/{$id}
-# connect.garmin.com/course/embed/{$id}
-# http://connect.garmin.com/course/embed/{$id}
-# http://connect.garmin.com:80/course/embed/{$id}
+connect.garmin.com/course/{$id}
+http://connect.garmin.com/course/{$id}
+connect.garmin.com/course/embed/{$id}
+http://connect.garmin.com/course/embed/{$id}
+http://connect.garmin.com:80/course/embed/{$id}
 #
 #Copy these into 'Match URLS:' option box...
 #
